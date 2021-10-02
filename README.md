@@ -14,7 +14,6 @@ the airlines reservation system is a Java-based solution that allows users to qu
 * Administrators can add, modify, and cancel flights, schedules, and routes.
 
 # Roles
-# Following roles are implemented:
 
 * Airline Admin
 * Airline Manager
